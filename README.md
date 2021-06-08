@@ -1,4 +1,3 @@
-# android-kotlin
-
-Kotlin ver
+# 구현사항
+* 스플래시 화면  
 
